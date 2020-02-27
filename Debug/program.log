@@ -1,0 +1,69 @@
+﻿Build started 2018-05-07 6:13:42 PM.
+     1>Project "\\Mac\PHILIPS UFD\Mohan\vision_example_3_average_color_labels\program.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D CONSOLE_IO /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt my_functions.cpp program.cpp serial_com.cpp timer.cpp vision.cpp
+         my_functions.cpp
+     1>my_functions.cpp(172): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>my_functions.cpp(191): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>my_functions.cpp(319): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+         program.cpp
+     1>program.cpp(132): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(166): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(171): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(181): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(189): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(198): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(209): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>program.cpp(235): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(244): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(253): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(266): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(333): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(346): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(362): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : see declaration of 'getch'
+     1>program.cpp(386): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>program.cpp(387): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>program.cpp(404): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>program.cpp(405): warning C4305: '=' : truncation from 'double' to 'float'
+     1>program.cpp(406): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>program.cpp(372): warning C4101: 'z1l' : unreferenced local variable
+     1>program.cpp(440): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>program.cpp(441): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         serial_com.cpp
+         timer.cpp
+         vision.cpp
+     1>vision.cpp(906): warning C4101: 'i' : unreferenced local variable
+     1>vision.cpp(907): warning C4101: 'c' : unreferenced local variable
+         Generating Code...
+     1>\\mac\philips ufd\mohan\vision_example_3_average_color_labels\program.cpp(443): warning C4700: uninitialized local variable 'jc4' used
+     1>\\mac\philips ufd\mohan\vision_example_3_average_color_labels\program.cpp(443): warning C4700: uninitialized local variable 'ic4' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\program.exe" /INCREMENTAL /NOLOGO image_transfer3.lib odbc32.lib odbccp32.lib winmm.lib wsock32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmtd /NODEFAULTLIB:libcd /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\program.lib" /MACHINE:X86 /SAFESEH .\Debug\my_functions.obj
+         .\Debug\program.obj
+         .\Debug\serial_com.obj
+         .\Debug\timer.obj
+         .\Debug\vision.obj
+         program.vcxproj -> \\Mac\PHILIPS UFD\Mohan\vision_example_3_average_color_labels\.\Debug\program.exe
+     1>Done Building Project "\\Mac\PHILIPS UFD\Mohan\vision_example_3_average_color_labels\program.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.96
